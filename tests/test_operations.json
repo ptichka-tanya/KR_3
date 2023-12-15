@@ -1,0 +1,32 @@
+[
+  {
+    "id": 879660146,
+    "state": "EXECUTED",
+    "date": "2018-07-22T07:42:32.953324",
+    "operationAmount": {
+      "amount": "92130.50",
+      "currency": {
+        "name": "USD",
+        "code": "USD"
+      }
+    },
+    "description": "Перевод организации",
+    "from": "Счет 19628854383215954147",
+    "to": "Счет 90887717138446397473"
+  },
+  {
+    "id": 710136990,
+    "state": "CANCELED",
+    "date": "2018-08-17T03:57:28.607101",
+    "operationAmount": {
+      "amount": "66906.45",
+      "currency": {
+        "name": "USD",
+        "code": "USD"
+      }
+    },
+    "description": "Перевод организации",
+    "from": "Maestro 1913883747791351",
+    "to": "Счет 11492155674319392427"
+  }
+]
